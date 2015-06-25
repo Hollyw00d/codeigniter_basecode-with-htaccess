@@ -1,4 +1,3 @@
 # codeigniter_basecode-with-htaccess
-- CodeIgniter 3.0.0 download from official website.
-
-- An .htaccess file from Coding Dojo was NOT uploaded to the root to redirect "/index.php" URL paths to "/" as it doesn't work.
+- CodeIgniter files, including a .htaccess file, download from a GitHub repo from Coding Dojo:
+ https://github.com/johndavid9991/ci_clean_version
